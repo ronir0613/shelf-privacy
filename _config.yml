@@ -1,0 +1,7 @@
+title: Shelf
+description: Privacy policy for Shelf, a Chrome extension for saving pages and setting reminders.
+url: https://ronir0613.github.io
+baseurl: /shelf-privacy
+theme: minima
+plugins:
+  - jekyll-seo-tag
